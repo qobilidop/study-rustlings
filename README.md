@@ -6,6 +6,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 
 |         | Exercise               | Book Chapter |
 |---------|------------------------|--------------|
+| &#9745; | intro                  | §1           |
 | &#9744; | variables              | §3.1         |
 | &#9744; | functions              | §3.3         |
 | &#9744; | if                     | §3.5         |

@@ -7,7 +7,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 |                      | Exercise               | Book Chapter |
 |----------------------|------------------------|--------------|
 | :white_check_mark:   | intro                  | §1           |
-| :white_large_square: | variables              | §3.1         |
+| :white_check_mark:   | variables              | §3.1         |
 | :white_large_square: | functions              | §3.3         |
 | :white_large_square: | if                     | §3.5         |
 | :white_large_square: | move_semantics         | §4.1         |

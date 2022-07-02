@@ -1,0 +1,4 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:qobilidop/rustlings.git
+	branch = practice

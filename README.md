@@ -8,7 +8,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 |----------------------|------------------------|--------------|
 | :white_check_mark:   | intro                  | §1           |
 | :white_check_mark:   | variables              | §3.1         |
-| :white_large_square: | functions              | §3.3         |
+| :white_check_mark:   | functions              | §3.3         |
 | :white_large_square: | if                     | §3.5         |
 | :white_large_square: | move_semantics         | §4.1         |
 | :white_large_square: | primitive_types        | §4.3         |
@@ -28,5 +28,5 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_large_square: | clippy                 | n/a          |
 | :white_large_square: | conversions            | n/a          |
 
-- My solutions to the exercises could be found under [rustlings/exercises](https://github.com/qobilidop/rustlings/tree/practice/exercises).
+- My solutions to the exercises are recorded in [rustlings/exercises](https://github.com/qobilidop/rustlings/tree/practice/exercises).
 - The chapter number corresponds to "the book": https://doc.rust-lang.org/book/.

@@ -11,7 +11,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | functions              | §3.3         |
 | :white_check_mark:   | if                     | §3.5         |
 | :white_check_mark:   | quiz1                  |              |
-| :white_large_square: | move_semantics         | §4.1         |
+| :white_check_mark:   | move_semantics         | §4.1         |
 | :white_large_square: | primitive_types        | §4.3         |
 | :white_large_square: | structs                | §5.1         |
 | :white_large_square: | enums                  | §6           |

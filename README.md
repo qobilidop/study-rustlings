@@ -15,7 +15,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | primitive_types        | §3.2, §4.3   |
 | :white_check_mark:   | structs                | §5.1, §5.3   |
 | :white_check_mark:   | enums                  | §6, §18.3    |
-| :white_large_square: | modules                | §7           |
+| :white_check_mark:   | modules                | §7           |
 | :white_large_square: | collections            | §8.1, §8.3   |
 | :white_large_square: | strings                | §8.2         |
 | :white_large_square: | error_handling         | §9           |

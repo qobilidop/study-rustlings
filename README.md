@@ -13,7 +13,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | quiz1                  |              |
 | :white_check_mark:   | move_semantics         | §4.1         |
 | :white_check_mark:   | primitive_types        | §3.2, §4.3   |
-| :white_large_square: | structs                | §5.1         |
+| :white_check_mark:   | structs                | §5.1, §5.3   |
 | :white_large_square: | enums                  | §6           |
 | :white_large_square: | modules                | §7           |
 | :white_large_square: | collections            | §8.1, §8.3   |

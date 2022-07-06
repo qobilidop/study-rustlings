@@ -4,7 +4,6 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 
 ## Progress
 
-- Overall progress: 53/84
 - My solutions to the exercises are recorded in [rustlings/exercises](https://github.com/qobilidop/rustlings/tree/practice/exercises).
 - The chapter number corresponds to "the book": https://doc.rust-lang.org/book/.
 
@@ -26,7 +25,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | error_handling         | §9           |
 | :white_check_mark:   | generics               | §10.1        |
 | :white_check_mark:   | option                 | §10.1        |
-| :white_large_square: | traits                 | §10.2        |
+| :white_check_mark:   | traits                 | §10.2        |
 | :white_large_square: | tests                  | §11.1        |
 | :white_large_square: | standard_library_types | §13.2        |
 | :white_large_square: | threads                | §16.1        |

@@ -26,7 +26,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | generics               | §10.1        |
 | :white_check_mark:   | option                 | §10.1        |
 | :white_check_mark:   | traits                 | §10.2        |
-| :white_large_square: | tests                  | §11.1        |
+| :white_check_mark:   | tests                  | §11.1        |
 | :white_large_square: | standard_library_types | §13.2        |
 | :white_large_square: | threads                | §16.1        |
 | :white_large_square: | macros                 | §19.6        |

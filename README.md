@@ -19,7 +19,7 @@ Record my progress going through the [rustlings](https://github.com/rust-lang/ru
 | :white_check_mark:   | collections            | §8.1, §8.3   |
 | :white_check_mark:   | strings                | §8.2         |
 | :white_check_mark:   | quiz2                  |              |
-| :white_large_square: | error_handling         | §9           |
+| :white_check_mark:   | error_handling         | §9           |
 | :white_large_square: | generics               | §10          |
 | :white_large_square: | option                 | §10.1        |
 | :white_large_square: | traits                 | §10.2        |

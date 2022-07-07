@@ -28,5 +28,6 @@ My solutions to the exercises are recorded in [rustlings/exercises](https://gith
 - [x] standard_library_types
 - [x] threads
 - [x] macros
+- [x] quiz4
 - [ ] clippy
 - [ ] conversions

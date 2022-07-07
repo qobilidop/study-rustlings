@@ -26,7 +26,7 @@ My solutions to the exercises are recorded in [rustlings/exercises](https://gith
 - [x] tests
 - [x] quiz3
 - [x] standard_library_types
-- [ ] threads
+- [x] threads
 - [ ] macros
 - [ ] clippy
 - [ ] conversions

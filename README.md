@@ -30,4 +30,4 @@ My solutions to the exercises are recorded in [rustlings/exercises](https://gith
 - [x] macros
 - [x] quiz4
 - [x] clippy
-- [ ] conversions
+- [x] conversions

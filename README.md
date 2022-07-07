@@ -29,5 +29,5 @@ My solutions to the exercises are recorded in [rustlings/exercises](https://gith
 - [x] threads
 - [x] macros
 - [x] quiz4
-- [ ] clippy
+- [x] clippy
 - [ ] conversions

@@ -1,6 +1,6 @@
-# Practice: rustlings
+# Study: rustlings
 
-Record my progress going through the [rustlings](https://github.com/rust-lang/rustlings).
+This repo is for my personal study of [rustlings](https://github.com/rust-lang/rustlings).
 
 My solutions to the exercises are recorded in [rustlings/exercises](https://github.com/qobilidop/rustlings/tree/practice/exercises).
 

@@ -31,3 +31,4 @@ My solutions to the exercises are recorded in [rustlings/exercises](https://gith
 - [x] quiz4
 - [x] clippy
 - [x] conversions
+- [x] advanced_errors
